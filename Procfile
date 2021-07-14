@@ -1,0 +1,1 @@
+web: python image_cap_bot/bot.py
